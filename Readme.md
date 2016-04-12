@@ -1,3 +1,4 @@
 Git teste
 
-Aditando arquivo
+
+Editando arquivo
