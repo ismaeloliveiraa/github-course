@@ -1,7 +1,7 @@
 #Git Course
 
-Git teste
+##Git teste
 
 Editando arquivo
+[Link do curso](http://willianjusten.teachable.com/courses/)	 
 
-:)
